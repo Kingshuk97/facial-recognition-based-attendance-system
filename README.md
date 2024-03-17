@@ -35,4 +35,4 @@ The system has the following package dependencies -
 
 **Pathlib:** This module offers classes representing filesystem paths with semantics appropriate for different operating systems.
 
-Once these packages are installed, the project can be executed from the source code folder by opening the terminal and typing 'python3 page1.py'.
+Once these packages are installed, the project can be executed from the source code folder by opening the terminal and typing `python3 page1.py`.
