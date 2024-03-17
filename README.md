@@ -1,7 +1,7 @@
 ## ABOUT
 
 This app is a prototype of a student's attendance system based on facial recognition. The detailed
-synopsis and documentation can be found in the 
+synopsis and documentation can be found in the `reports` directory.
 
 ## INSTRUCTIONS FOR RUNNING THE SOFTWARE
 
